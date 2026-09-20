@@ -69,3 +69,10 @@ well ive been busy for a while and i couldnt continue the project but we are bac
 
 **Total time spent: 3h 25m**
 
+# September 20th, 2026
+so after looking at the first case design...i felt it was kinda bad and bulky for no reason....so today i decided to redesing the case.....completely scraping the front case and only leaving the plate and bottom case....the i dea was to get that floating keys stuff...and also that will make the whole thing more compact
+![](./Images/C-new-case.png)
+![](./Images/C-new-case-front.png)
+
+**Total time spent: 2h 32m**
+
