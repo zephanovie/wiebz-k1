@@ -76,3 +76,8 @@ so after looking at the first case design...i felt it was kinda bad and bulky fo
 
 **Total time spent: 2h 32m**
 
+# September 21st, 2026: Worked on the firmware
+so yh i just basically did the firmware today... this is just a bare minimun of the firmware....just the normal key funtions for now...i havent added the leds yet... i plan to do that during the build process so i can have a visual on what i am doing
+![](./Images/keymap.png)
+
+**Total time spent: ~2h 12m**
