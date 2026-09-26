@@ -88,3 +88,9 @@ so i added cutouts for the ambient or underglow leds and i wanted to add some co
 ![](./Images/case-cutout-v1.png)
 
 **Total time spent: 2h 2m**
+
+# September 26th, 2026: Finally and Totally Finished with the Case
+so i finished adding my screw supports in the case...both the base and the plate...i can just hope the design would work in real life....the case is too big for my 3d printer so ill have to split it but that can come later...and i also added some extra silkscreen on my pcb...this took about 10mins but i didnt record the process
+![](./Images/screw_support.png)
+
+**Total time spent: ~46m**
