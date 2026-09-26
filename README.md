@@ -11,6 +11,13 @@ it uses a raspberry pi pico as the MCU, the switches would be hot swappable. it 
 
 # BOM
 
+# Images
+## Schematics
+
+## PCB
+## Case
+
+
 
 
 
