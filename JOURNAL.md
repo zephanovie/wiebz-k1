@@ -81,3 +81,10 @@ so yh i just basically did the firmware today... this is just a bare minimun of 
 ![](./Images/keymap.png)
 
 **Total time spent: ~2h 12m**
+
+# September 22nd, 2026: Case Leds Cutouts
+so i added cutouts for the ambient or underglow leds and i wanted to add some contrast to the design....but i know realize its ass...so il have to redesign the cutouts...this time ill use more uniform shapes
+![](./Images/case-cutout2-v1.png)
+![](./Images/case-cutout-v1.png)
+
+**Total time spent: 2h 2m**
