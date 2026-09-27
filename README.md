@@ -48,7 +48,14 @@ it uses a raspberry pi pico as the MCU, the switches would be hot swappable. it 
 
 
 ## Case
+#### Plate
+![](./Images/wiebz-k1-plate.png)
 
+#### Base
+![](./Images/wiebz-k1-base.png)
+
+### MCU Cover
+![](./Images/wiebz-k1-mcu-cover.png)
 
 #### Full Case
 ![](./Images/C-new-case-front.png)
