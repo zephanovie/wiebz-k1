@@ -29,13 +29,27 @@ it uses a raspberry pi pico as the MCU, the switches would be hot swappable. it 
 
 # Images
 ## Schematics
+#### Keyboard Matrix
+![](./Images/New-SCH.png)
+
+#### LED Chain
+![](./Images/SK6812-MINI-E-chain.png)
+
+#### MCU
+![](./Images/MCU2.png)
 
 ## PCB
+#### PCB Design
+![](./Images/real-finished-pcb.png)
+
+#### PCB 3D Render
+![](./Images/real-finished-pcb-3d-front.png)
+![](./Images/real-finished-pcb-3d-back.png)
+
+
 ## Case
 
 
+#### Full Case
+![](./Images/C-new-case-front.png)
 
-
-
-![](./Images/full-case.png)
- (to anyone seeing this now....ill edit it later soo.....check the [journal](./JOURNAL.md) for now)
