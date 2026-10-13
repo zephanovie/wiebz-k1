@@ -117,3 +117,10 @@ https://lapse.hackclub.com/timelapse/7XiGXEylNQqh
 ![](./Images/screw_support.png)
 
 **Total time spent: ~46m**
+
+# October 14th, 2026: redesigned everything to make it more sleek
+So based off a freinds recommendation i had to redesign the whole keyboard by flipping the mcu and making it bottom mount..it was because of that MCU cover being too bulky and ruining the looks...so i first started with the pcb by flipping the mcu and rerouting the pcb then i went to the case and removed that big brick from the top and made it flat...i also added supports for the pcb on the base...that should be all...i think
+https://lapse.hackclub.com/timelapse/RB5Q_xvCT_o_
+![](/Images/final-kb-design.png)
+
+**Total time spent: 3h 37m**
